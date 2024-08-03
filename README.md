@@ -21,7 +21,7 @@ This portfolio page is a collection of my professional work, highlighting projec
 - Interactive elements and animations to engage visitors.
 - Contact form for potential clients to reach out.
 
-  ## Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
