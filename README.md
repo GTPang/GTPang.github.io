@@ -1,1 +1,0 @@
-# GTPang.github.io
