@@ -45,7 +45,7 @@ This portfolio page is a collection of my professional work, highlighting projec
 
 - Description: Designed and implemented an e-commerce platform with a user-friendly interface.
 - Technologies: HTML, CSS, JavaScript, React, Node.js
-- Live Demo: [Link](GTPang.github.io/eshop)
+- Live Demo: [Link](https://gtpang.github.io/eshop/)
 
 ### Project 3: Personal Blog
 
