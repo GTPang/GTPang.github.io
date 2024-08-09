@@ -47,6 +47,17 @@ This portfolio page is a collection of my professional work, highlighting projec
 - Technologies: HTML, CSS, JavaScript, React, Node.js
 - Live Demo: [Link](https://gtpang.github.io/eshop/)
 
+#### Note: You may use the following credentials to sign in if you wish to test the full features.
+
+- Username: johnd
+- Password: m38rmF$
+
+- Username: mor_2314
+- Password: 83r5^_
+
+- Username: kevinryan
+- Password: kev02937@
+
 ### Project 3: Personal Blog
 
 - Description: Created a personal blog with dynamic content management.
