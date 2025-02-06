@@ -35,7 +35,7 @@ This portfolio page is a collection of my professional work, highlighting projec
 
 ## Project Showcase
 
-### Project 1: AI Movie Finder Website
+### Project 1: AI Movie Finder
 
 - Description: Designed and developed a streaming search platform that allows users to find movies, TV shows, or web series based on either a plot description or the actual title. The system is powered by OpenAI's API, which processes user queries and accurately identifies relevant content. This platform is ideal for movie enthusiasts who want to find a film based on a brief memory of the plot.
 - Technologies: Open AI API, React, Node.js, REST API, HTML, CSS, JavaScript 
