@@ -35,11 +35,11 @@ This portfolio page is a collection of my professional work, highlighting projec
 
 ## Project Showcase
 
-### Project 1: Digital Marketing Agency Website
+### Project 1: AI Movie Finder Website
 
-- Description: Developed a responsive website for a digital marketing agency.
-- Technologies: HTML, CSS, JavaScript, React
-- Live Demo: Link
+- Description: Designed and developed a streaming search platform that allows users to find movies, TV shows, or web series based on either a plot description or the actual title. The system is powered by OpenAI's API, which processes user queries and accurately identifies relevant content. This platform is ideal for movie enthusiasts who want to find a film based on a brief memory of the plot.
+- Technologies: Open AI API, React, Node.js, REST API, HTML, CSS, JavaScript 
+- Live Demo: [Link](https://gtpang.github.io/moviefinder/)
 
 ### Project 2: E-commerce Platform
 
