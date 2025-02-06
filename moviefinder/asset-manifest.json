@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/moviefinder/static/css/main.b5ded93c.css",
-    "main.js": "/moviefinder/static/js/main.e6f949ea.js",
+    "main.css": "/moviefinder/static/css/main.d6850063.css",
+    "main.js": "/moviefinder/static/js/main.32b5df25.js",
     "static/media/imdb.png": "/moviefinder/static/media/imdb.ce7f5b5496104c55a1b4.png",
     "static/media/tomato.png": "/moviefinder/static/media/tomato.01ff9e82075849053658.png",
     "static/media/meta.png": "/moviefinder/static/media/meta.177e49388ceafbd0d0af.png",
     "static/media/logo.svg": "/moviefinder/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/moviefinder/index.html",
-    "main.b5ded93c.css.map": "/moviefinder/static/css/main.b5ded93c.css.map",
-    "main.e6f949ea.js.map": "/moviefinder/static/js/main.e6f949ea.js.map"
+    "main.d6850063.css.map": "/moviefinder/static/css/main.d6850063.css.map",
+    "main.32b5df25.js.map": "/moviefinder/static/js/main.32b5df25.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5ded93c.css",
-    "static/js/main.e6f949ea.js"
+    "static/css/main.d6850063.css",
+    "static/js/main.32b5df25.js"
   ]
 }
