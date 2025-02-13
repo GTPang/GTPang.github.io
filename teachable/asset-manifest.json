@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/teachable/static/css/main.2f65fba4.css",
+    "main.js": "/teachable/static/js/main.843fa2ca.js",
+    "static/media/img1.jpg": "/teachable/static/media/img1.68bc7d61fb4768119e31.jpg",
+    "static/media/home-banner.jpg": "/teachable/static/media/home-banner.3b682d8af47042c51091.jpg",
+    "static/media/logo.svg": "/teachable/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/teachable/index.html",
+    "main.2f65fba4.css.map": "/teachable/static/css/main.2f65fba4.css.map",
+    "main.843fa2ca.js.map": "/teachable/static/js/main.843fa2ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f65fba4.css",
+    "static/js/main.843fa2ca.js"
+  ]
+}
